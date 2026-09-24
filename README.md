@@ -8,15 +8,15 @@
 
 🐍 I'm currently learning **Python & Data Structures**
 
-🔧 I'm interested in **Embedded Systems & VLSI**
+🔧 I'm interested in **PYTHON & VLSI**
 
 💻 I'm building my **programming and problem-solving skills**
 
-🚀 I'm looking to collaborate on **Python, Embedded & VLSI projects**
+🚀 I'm looking to collaborate on **Python & VLSI projects**
 
 📚 I'm continuously learning and building new projects
 
-💬 Ask me about **Python, Embedded Systems & VLSI**
+💬 Ask me about **Python & VLSI**
 
 ---
 
